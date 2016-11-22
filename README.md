@@ -2,7 +2,7 @@
 *依赖包：BeautifulSoup,scrapy*
 运行方法
 ```
-cd csrapy_alibaba
+cd scrapy_alibaba
 scrapy crawl ali88
 ```
 ###数据保存在本地mongdb:27017/alibaba_test数据库下
