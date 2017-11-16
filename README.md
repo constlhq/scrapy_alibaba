@@ -1,3 +1,4 @@
+# 挂了，留个纪念
 # 基于scrapy爬取ali巴巴[移动版](http://m.1688.com)的供货商公司信息的爬虫
 *依赖包：BeautifulSoup,scrapy*
 
